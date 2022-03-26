@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>ALL</item>
+        <item>NEW</item>
+        <item>ANIMALS</item>
+        <item>TECHNOLOGY</item>
+        <item>NATURE</item>
+        <item>CARS</item>
+        <item>FUTURE</item>
+    </string-array>
+
+</resources>
